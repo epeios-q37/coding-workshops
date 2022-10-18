@@ -14,7 +14,7 @@ DIVULGUER_MOT_SECRET = VRAI
 Retourne un mot quelconque.
 """
 def choisirMot():
-  pass  # Remplacer par votre code.
+  pass  # Remplace par ton code.
 
 
 go(globals())
